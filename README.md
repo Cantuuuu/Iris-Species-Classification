@@ -192,8 +192,5 @@ metricas.pkl        # Diccionario con métricas de evaluación
 
 | Nombre | Matrícula | GitHub |
 |--------|-----------|--------|
-| **Arturo Cantú Olivarez** | 1919010 | [@Cantuuuu](https://github.com/Cantuuuu) |
-| **Diego Sebastián Cruz Cervantes** | 1910032 |  [@Cantuuuu](https://github.com/Cantuuuu)  |
-
-
-</div>
+| **Arturo Cantú Olivarez** | 10919 | [@Cantuuuu](https://github.com/Cantuuuu) |
+| **Diego Sebastián Cruz Cervantes** | 10032 |  [@SebasCrucer ](https://github.com/SebasCrucer)  |
