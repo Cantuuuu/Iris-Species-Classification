@@ -278,4 +278,10 @@ fig_comp.update_layout(
 
 st.plotly_chart(fig_comp, use_container_width=True)
 
+st.markdown("---")
+st.write("""\n
+Alumnos: \n
+Cantú Olivarez Arturo - 10919\n
+Cruz Cervantes Diego Sebastián - 10032
+""")
 
